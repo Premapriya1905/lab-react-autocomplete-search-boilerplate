@@ -1,0 +1,14 @@
+#search-button{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+#search{
+    background-color: rgb(3, 182, 3);
+}
+#input{
+    height: 4vh;
+    width: 10vw;
+}
